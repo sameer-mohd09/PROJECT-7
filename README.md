@@ -9,8 +9,7 @@ A simple web application that displays a random quote of the day and allows you 
 - Button to share the current quote via WhatsApp
 - Clean, modern UI
 
-## Demo
-![Screenshot](Whatsapp-Icon-PNG.png)
+
 
 ## Getting Started
 
