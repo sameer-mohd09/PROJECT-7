@@ -1,4 +1,4 @@
-# Quote Generator
+# Quote Generator Web App
 
 A simple web application that displays a random quote of the day and allows you to share it via WhatsApp.
 
